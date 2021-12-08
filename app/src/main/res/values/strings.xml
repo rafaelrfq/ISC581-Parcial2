@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoFinal</string>
+
+    <string name="navigation_drawer_open">Open nav drawer</string>
+    <string name="navigation_drawer_close">Close nav drawer</string>
+
+</resources>
